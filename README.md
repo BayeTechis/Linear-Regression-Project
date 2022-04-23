@@ -9,4 +9,4 @@ It also identifies:
 - plots the correlation between all variables and identify the important features
 - encodes categorical variables 
 - performs linear regression model to predict rented bike count by choosing appropriate independent variables
-- assesses and comments on model accuracy by using Lasso and Ridge regularization methods
+- assesses and comments on model accuracy by using Lasso and Ridge methods
